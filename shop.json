@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "5G (1Ltr)",
+    "imageUrl": "https://khetisolution.com/wp-content/uploads/2022/10/ICL-Products.jpg",
+    "price": 1200
+  },
+  {
+    "id": 2,
+    "name": "BIO-NPK (1LTR)",
+    "imageUrl": "https://khetisolution.com/wp-content/uploads/2022/10/ICL-Products-21-1.jpg",
+    "price": 600
+  },
+  {
+    "id": 3,
+    "name": "BOOSTER 08-16-39",
+    "imageUrl": "https://khetisolution.com/wp-content/uploads/2022/10/ICL-Products-8.jpg",
+    "price": 375
+  },
+  {
+    "id": 4,
+    "name": "FRUIT NPK 12-05-27+8CaO",
+    "imageUrl": "https://khetisolution.com/wp-content/uploads/2022/10/ICL-Products-10.jpg",
+    "price": 350
+  },
+  {
+    "id": 5,
+    "name": "(00-55-18+7MgO) 25Kgs",
+    "imageUrl": "https://khetisolution.com/wp-content/uploads/2022/10/ICL-Products-1.jpg",
+    "price": 7250
+  },
+  {
+    "id": 6,
+    "name": "NPK 08-00-47 + 7S",
+    "imageUrl": "https://khetisolution.com/wp-content/uploads/2022/10/Kheti-Solution-Products-16.jpg",
+    "price": 830
+  },
+  {
+    "id": 7,
+    "name": "NPK 12-06-22+12CaO",
+    "imageUrl": "https://khetisolution.com/wp-content/uploads/2022/10/Kheti-Solution-Products-20.jpg",
+    "price": 900
+  },
+  {
+    "id": 8,
+    "name": "NPK 19-19-19",
+    "imageUrl": "https://khetisolution.com/wp-content/uploads/2022/10/ICL-Products-9.jpg",
+    "price": 250
+  },
+  {
+    "id": 9,
+    "name": "PEAKVANT PK 00-49-32",
+    "imageUrl": "https://khetisolution.com/wp-content/uploads/2022/10/ICL-Products-6.jpg",
+    "price": 400
+  },
+  {
+    "id": 10,
+    "name": "PEKACID (00-60-20) 25KG",
+    "imageUrl": "https://khetisolution.com/wp-content/uploads/2022/10/ICL-Products-2.jpg",
+    "price": 7000
+  },
+  {
+    "id": 11,
+    "name": "POLYSULPHATE (25KG)",
+    "imageUrl": "https://khetisolution.com/wp-content/uploads/2022/10/ICL-Products-4.jpg",
+    "price": 890
+  },
+  {
+    "id": 12,
+    "name": "PREMIUM PHOSTER (4KG)",
+    "imageUrl": "https://khetisolution.com/wp-content/uploads/2022/10/ICL-Products-11.jpg",
+    "price": 350
+  },
+  {
+    "id": 13,
+    "name": "PREMIUM VAM SHAKTI (4KG)",
+    "imageUrl": "https://khetisolution.com/wp-content/uploads/2022/10/ICL-Products-14.jpg",
+    "price": 425
+  },
+  {
+    "id": 14,
+    "name": "PREMIUM ZINKO (4KG)",
+    "imageUrl": "https://khetisolution.com/wp-content/uploads/2022/10/ICL-Products-12.jpg",
+    "price": 350
+  },
+  {
+    "id": 15,
+    "name": "SIRON (4KG)",
+    "imageUrl": "https://khetisolution.com/wp-content/uploads/2023/01/siron-500x500-1.webp",
+    "price": 450
+  },
+  {
+    "id": 16,
+    "name": "SOIL GOLD (3.5KG)",
+    "imageUrl": "https://khetisolution.com/wp-content/uploads/2022/10/ICL-Products-15.jpg",
+    "price": 350
+  },
+  {
+    "id": 17,
+    "name": "STARTER NPK 11-36-24",
+    "imageUrl": "https://khetisolution.com/wp-content/uploads/2022/10/ICL-Products-7.jpg",
+    "price": 375
+  },
+  {
+    "id": 18,
+    "name": "VICI ROUTZ GR (3KG)",
+    "imageUrl": "https://khetisolution.com/wp-content/uploads/2023/01/csm_Vici-Routz-GR_d340292ee1.webp",
+    "price": 700
+  },
+  {
+    "id": 19,
+    "name": "YARA SOP 00-00-50 (10KG)",
+    "imageUrl": "https://khetisolution.com/wp-content/uploads/2023/01/lvej-940x1106.png",
+    "price": 1400
+  },
+  {
+    "id": 20,
+    "name": "YaraLiva NITRABOR (25 Kgs)",
+    "imageUrl": "https://khetisolution.com/wp-content/uploads/2022/10/YaraLiva-Nitrabor-Fertilizer-from-Yara-Group-India.jpg",
+    "price": 2100
+  },
+  {
+    "id": 21,
+    "name": "YaraMila COMPLEX (10Kgs)",
+    "imageUrl": "https://khetisolution.com/wp-content/uploads/2022/10/YaraMila-COMPLEX-Fertilizer-from-Yara-Group-India.jpg",
+    "price": 1180
+  },
+  {
+    "id": 22,
+    "name": "YaraTera Calcinit 25 Kgs",
+    "imageUrl": "https://khetisolution.com/wp-content/uploads/2022/10/YaraTera-Calcinit-Fertilizer-from-Yara-Group-India.jpg",
+    "price": 2300
+  },
+  {
+    "id": 23,
+    "name": "YaraVita Bortrac 150 (1 Litre)",
+    "imageUrl": "https://khetisolution.com/wp-content/uploads/2022/10/YaraVita-Bortrac-150-Fertilizer-from-Yara-Group-India.jpg",
+    "price": 1250
+  },
+  {
+    "id": 24,
+    "name": "YaraVita Bud Builder (1 Kgs)",
+    "imageUrl": "https://khetisolution.com/wp-content/uploads/2022/10/YaraTera-Bud-Builder-Fertilizer-from-Yara-Group-India.jpg",
+    "price": 1350
+  },
+  {
+    "id": 25,
+    "name": "YaraVita Zintrac 700 (1 Litre)",
+    "imageUrl": "https://khetisolution.com/wp-content/uploads/2022/10/YaraVita-Zintrac-700-Fertilizer-from-Yara-Group-India-1.jpg",
+    "price": 1600
+  }
+]
